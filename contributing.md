@@ -77,13 +77,7 @@ Le bouton vert dans la section Démarrage rapide.
 
 *sparkling-moon-624 · Mis à jour 2026-10-10 · Partagé sous licence MIT*
 
-## Related topics
 
-- [best-disk-space-analyzer-utility](https://github.com/topics/best-disk-space-analyzer-utility)
-- [ultimate-disk-defrag-tool-software](https://github.com/topics/ultimate-disk-defrag-tool-software)
-- [quick-folder-compare-tool-download](https://github.com/topics/quick-folder-compare-tool-download)
-- [bootable-usb-creator-free](https://github.com/topics/bootable-usb-creator-free)
-- [free-file-joiner-open-source](https://github.com/topics/free-file-joiner-open-source)
-- [one-click-usb-formatter](https://github.com/topics/one-click-usb-formatter)
-- [open-source-file-sync-windows-github](https://github.com/topics/open-source-file-sync-windows-github)
-- [easy-empty-folder-cleaner-download](https://github.com/topics/easy-empty-folder-cleaner-download)
+## Browse topics
+
+This project touches [open-source-file-sync-windows-github](https://github.com/topics/open-source-file-sync-windows-github), [easy-empty-folder-cleaner-download](https://github.com/topics/easy-empty-folder-cleaner-download), [free-file-joiner-open-source](https://github.com/topics/free-file-joiner-open-source), [bootable-usb-creator-free](https://github.com/topics/bootable-usb-creator-free), [quick-folder-compare-tool-download](https://github.com/topics/quick-folder-compare-tool-download), [best-disk-space-analyzer-utility](https://github.com/topics/best-disk-space-analyzer-utility), [ultimate-disk-defrag-tool-software](https://github.com/topics/ultimate-disk-defrag-tool-software) and [one-click-usb-formatter](https://github.com/topics/one-click-usb-formatter).
